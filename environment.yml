@@ -9,9 +9,7 @@ dependencies:
     - matplotlib
     - pandas
     - keras
-    - pytorch
     - tensorflow
-    - torchvision
     - xgboost
     - pandas-datareader 
     - plotly 
