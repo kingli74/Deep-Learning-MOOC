@@ -1,0 +1,24 @@
+- python=3
+- pip:
+	- spacy
+	- ipykernel
+	- scipy
+	- numpy
+	- scikit-learn
+	- matplotlib
+	- pandas
+	- keras
+	- pytorch
+	- tensorflow
+	- torchvision
+	- xlwings
+	- openpyxl
+	- xgboost
+	- pandas-datareader 
+	- plotly 
+	- Scrapy 
+	- django 
+	- pymysql 
+	- seaborn 
+	- scikit-learn
+	- opencv
